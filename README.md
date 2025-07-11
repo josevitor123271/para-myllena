@@ -27,3 +27,23 @@ django-myllena/
     ├── db.sqlite3                 # Banco de dados SQLite padrão do Django
     └── manage.py                  # Script utilitário para comandos Django (migrar, rodar servidor, etc)
 ```
+
+### Passos
+
+1 - Cria o ambiente virtual (Por causa dos conflitos de versão)
+
+```sh
+python -m venv nome_da_sua_venv
+```
+
+2 - Ativar ambiente virtual
+
+```sh
+# .\venv\Scripts\Activate -> substitua venv pelo nome do seu ambiente virtual
+```
+
+3 - Cria um projeto Django (Com ambiente ativado)
+
+```sh
+# pip3 install django
+```
