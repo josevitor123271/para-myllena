@@ -300,7 +300,7 @@ E voalá, mais uma vez! Agora o django renderiza um conteúdo em arquivo html.
 
 ---
 
-Por último, adicionaremos estilos CSS para a nosssa página. Mas como?
+Por último, adicionaremos estilos CSS para a nossa página. Mas como?
 
 ```sh
 # Por meio da tag link, chame o arquivo de estilo com seu respectivo caminho relativo na estrutura de pastas.
